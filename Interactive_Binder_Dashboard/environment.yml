@@ -1,4 +1,4 @@
-name: 
+name: myBlackJack1
 channels:
   - conda-forge
 dependencies:
