@@ -1,7 +1,0 @@
-name: myBlackJack1
-channels:
-  - conda-forge
-hub:
-  extraConfig: |
-    c.JupyterHub.spawner_class = 'kubespawner.KubeSpawner'
-    c.KubeSpawner.singleuser_image_spec = 'zcesur/jupyter-singleuser'
